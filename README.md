@@ -1,4 +1,4 @@
-## calculator
+## Calculator
 
 This is a simple calculator, developed in python with PyQt5 framework.
 
